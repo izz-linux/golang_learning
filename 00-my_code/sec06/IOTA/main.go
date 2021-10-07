@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// iota starts at 0 and increments itself within a block
 const (
 	a = iota
 	b = iota

@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// throw 0 away
 const (
 	_ =  iota
 	kb = 1 << (iota * 10)
